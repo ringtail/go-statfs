@@ -6,6 +6,8 @@ go:
   - 1.8
   - 1.9
   - master
+install:
+  - go get golang.org/x/sys/unix          
 script:
   - go test -race -coverprofile=coverage.txt -covermode=atomic
 after_success:
