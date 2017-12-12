@@ -1,4 +1,7 @@
 # go-statfs
+[![Build Status](https://travis-ci.org/ringtail/go-statfs.svg?branch=master)](https://travis-ci.org/ringtail/go-statfs)
+[![Codecov](https://codecov.io/gh/ringtail/go-statfs/branch/master/graph/badge.svg)](https://codecov.io/gh/ringtail/go-statfs)
+[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)   
 Statfs implement in golang 
 
 ## Description
