@@ -1,4 +1,4 @@
-package main
+package statfs
 
 import (
 	"testing"

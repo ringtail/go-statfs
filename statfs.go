@@ -1,4 +1,4 @@
-package main
+package statfs
 
 import "golang.org/x/sys/unix"
 
